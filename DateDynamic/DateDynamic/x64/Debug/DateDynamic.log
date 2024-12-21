@@ -1,0 +1,4 @@
+﻿  DateDynamic.cpp
+DateDynamic.obj : error LNK2019: symbole externe non résolu "public: __cdecl DateLibDyn::DateLibDyn(int,int,int)" (??0DateLibDyn@@QEAA@HHH@Z) référencé dans la fonction main
+DateDynamic.obj : error LNK2019: symbole externe non résolu "public: void __cdecl DateLibDyn::afficherdate(void)const " (?afficherdate@DateLibDyn@@QEBAXXZ) référencé dans la fonction main
+C:\Users\Dell\source\repos\DateDynamic\x64\Debug\DateDynamic.exe : fatal error LNK1120: 2 externes non résolus

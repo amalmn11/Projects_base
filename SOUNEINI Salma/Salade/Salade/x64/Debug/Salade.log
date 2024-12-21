@@ -1,0 +1,31 @@
+﻿  fruit.cpp
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(8,8): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(8,3): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(8,16): error C2238: jetons inattendus avant ';'
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(13,16): error C2061: erreur de syntaxe : identificateur 'Fruit'
+  FruitNonNoyau.cpp
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(8,8): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(8,3): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(8,16): error C2238: jetons inattendus avant ';'
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(13,16): error C2061: erreur de syntaxe : identificateur 'Fruit'
+  FruitNoyau.cpp
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(8,8): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(8,3): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(8,16): error C2238: jetons inattendus avant ';'
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(13,16): error C2061: erreur de syntaxe : identificateur 'Fruit'
+  Jus.cpp
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(8,8): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(8,3): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(8,16): error C2238: jetons inattendus avant ';'
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(13,16): error C2061: erreur de syntaxe : identificateur 'Fruit'
+C:\Users\Dell\source\repos\Salade\Salade\Jus.cpp(7,7): error C2600: 'Jus::~Jus' : impossible de définir une fonction membre spéciale générée par le compilateur (doit être déclarée d'abord dans la classe)
+  Salade.cpp
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(8,8): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(8,3): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(8,16): error C2238: jetons inattendus avant ';'
+C:\Users\Dell\source\repos\Salade\Salade\Saladefruit.h(13,16): error C2061: erreur de syntaxe : identificateur 'Fruit'
+C:\Users\Dell\source\repos\Salade\Salade\Salade.cpp(17,8): error C2660: 'Saladefruit::ajouter' : la fonction ne prend pas 1 arguments
+C:\Users\Dell\source\repos\Salade\Salade\Salade.cpp(18,8): error C2660: 'Saladefruit::ajouter' : la fonction ne prend pas 1 arguments
+  Saladefruit.cpp
+C:\Users\Dell\source\repos\Salade\Salade\fruit.h(7,20): error C2504: 'Saladefruit' : classe de base non définie
+  Génération de code en cours...

@@ -1,0 +1,7 @@
+﻿  ListeChaine.cpp
+  PileG.cpp
+  PileListeGenerique.cpp
+C:\Users\Dell\source\repos\Devoir\PileListeGenerique\PileListeGenerique\PileListeGenerique.cpp(26,51): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Dell\source\repos\Devoir\PileListeGenerique\PileListeGenerique\PileListeGenerique.cpp(128,39): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  Génération de code en cours...
+  PileListeGenerique.vcxproj -> C:\Users\Dell\source\repos\Devoir\PileListeGenerique\x64\Debug\PileListeGenerique.exe

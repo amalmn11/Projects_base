@@ -1,0 +1,5 @@
+﻿  DateDynamic.cpp
+DateDynamic.obj : error LNK2001: symbole externe non résolu "public: __cdecl DateLibDyn::~DateLibDyn(void)" (??1DateLibDyn@@QEAA@XZ)
+DateDynamic.obj : error LNK2001: symbole externe non résolu "public: void __cdecl DateLibDyn::afficherdate(void)const " (?afficherdate@DateLibDyn@@QEBAXXZ)
+DateDynamic.obj : error LNK2001: symbole externe non résolu "public: __cdecl DateLibDyn::DateLibDyn(int,int,int)" (??0DateLibDyn@@QEAA@HHH@Z)
+C:\Users\Dell\source\repos\DateDynamic\x64\Release\DateDynamic.exe : fatal error LNK1120: 3 externes non résolus

@@ -1,0 +1,3 @@
+﻿  stackbnt.cpp
+C:\Users\Dell\source\repos\stackbnt\StackLib\Stack.h(95,1): warning C4715: 'Stack<int>::Pop' : les chemins de contrôle ne retournent pas tous une valeur
+  stackbnt.vcxproj -> C:\Users\Dell\source\repos\stackbnt\x64\Debug\stackbnt.exe
